@@ -1,0 +1,59 @@
+body {
+	font-family: verdana, helvetica, arial, sans-serif;
+	margin: 0;
+	padding: 2;
+	background-color : #FFFFFF; // цвет общего фона
+	
+}
+.tbl1 
+{ 
+background: url('new_shapka.jpg'); 
+background-repeat: no-repeat; 
+background-color : #FFF;
+} 
+#navcontainer { width: 100%;}
+
+#navcontainer ul
+{
+	margin-left: 0;	padding-left: 0;
+	list-style-type: none;
+	font-size: 85%;
+	font-family: verdana; //Times,serif;
+}
+
+#navcontainer a
+{	display: block;
+	width: 100%;
+	padding: 0.35em;
+	background-color: ;
+	border-bottom: 1px solid #79BAEC;
+	color: #79BAEC;text-decoration: none;
+}
+#navcontainer a:hover	{background-color: #79BAEC;color: #fff;}
+
+
+p,main {
+	margin-left: 20;
+                font-family: serif;
+	color: black;
+	margin-top: 0.3em;
+}
+
+h1,h2,h3 {
+                margin-left: 20;
+	font-family: arial Rounded MT Bold, arial, Helvetica ;
+	font-weight: bold;
+	border-bottom: 0px solid #666;
+	color: #C19A6B;
+	margin-bottom: 0em;
+}
+
+
+
+a {
+                list-style-type: none;
+	color: #C19A6B;
+
+
+}
+
